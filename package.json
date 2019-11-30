@@ -1,0 +1,21 @@
+{
+  "name": "pr1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.16.0",
+    "formidable": "^1.2.1",
+    "mongoose": "^5.2.0",
+    "nodemon": "^1.19.4"
+  }
+}

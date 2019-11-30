@@ -1,0 +1,19 @@
+open the folder in visual studio code. Click on Terminal -> new Terminal
+
+STEP-1:
+make sure to change the uploadPath variable inside server.js from ("c:/prasad/uploads/). Note: path should end with "/"
+
+STEP-2:
+run the following commands on terminal.
+
+1). npm install
+
+2). npm start
+
+this will run the node server @port 3000
+
+STEP-3:
+
+open any browser and enter user http://localhost:3000
+
+
